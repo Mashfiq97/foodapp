@@ -1,0 +1,145 @@
+[
+  {
+    "popular": [
+      {
+        "name": "Fried Rice With Chicken Fry",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "15",
+        "note": "Extra special"
+      },
+      {
+        "name": "Beef Rezala",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Fried Rice",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "19",
+        "note": "Chilly"
+      },
+{
+        "name": "Biriyani",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Special, Spicy"
+      },
+      {
+        "name": "Chicken Noodles",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Spicy"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Beef Rezala",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Fried Rice With Chicken Fry",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": ""
+      },
+      {
+        "name": "Biriyani",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Special, Spicy"
+      }
+    ],
+    "allmenu": [
+      {
+        "name": "Fried Rice With Chicken Fry",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Extra special"
+      },
+      {
+        "name": "Beef Rezala",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Fried Rice",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "199",
+        "note": "Chilly"
+      },
+      {
+        "name": "Chicken Noodles",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Spicy"
+      },
+      {
+        "name": "Beef Rezala",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "25",
+        "note": "Special"
+      },
+      {
+        "name": "Fried Rice With Chicken Fry",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "15",
+        "note": ""
+      },
+      {
+        "name": "Biriyani",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "15",
+        "note": "Special, Spicy"
+      }
+    ]
+  }
+]
